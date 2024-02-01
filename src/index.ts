@@ -7,8 +7,8 @@ class BootstrapApp {
     constructor() {
         this.app = new App();
         this.mongoConfig = new MongoDBConfiguration()
-        this.startServer()
         this.startDB()
+        this.startServer()
     }
 
     private startServer() {

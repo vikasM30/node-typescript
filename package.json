@@ -1,6 +1,6 @@
 {
   "name": "mongo-restapi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.ts",
   "scripts": {
@@ -19,8 +19,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/compression": "^1.7.5",
     "@types/jest": "^29.5.11",
     "@types/swagger-ui-express": "^4.1.6",
+    "compression": "^1.7.4",
     "cors": "^2.8.5",
     "dotenv": "^16.4.1",
     "express": "^4.18.2",
