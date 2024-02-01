@@ -1,6 +1,6 @@
-# First we do (npm init -y) and then install the dependencies such as express, joi, etc.
+Initalise the current dir with package.json
+# npm init -y
 
-# First we installed the typescript package for linking the tsc
-there after linking tsconfig:
-# npx tsc --init
+Initialise git
+# git init
 

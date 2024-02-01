@@ -3,3 +3,4 @@ rest.http
 .env
 logs
 coverage
+src/Endpoints
