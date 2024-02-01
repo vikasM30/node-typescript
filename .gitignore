@@ -4,3 +4,4 @@ rest.http
 logs
 coverage
 src/Endpoints
+src/X509-cert-5587080455513667303.pem
